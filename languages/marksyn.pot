@@ -1,0 +1,50 @@
+msgid "Primary Menu"
+msgstr ""
+
+msgid "Footer Menu"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Project"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Project"
+msgstr ""
+
+msgid "New Project"
+msgstr ""
+
+msgid "Edit Project"
+msgstr ""
+
+msgid "View Project"
+msgstr ""
+
+msgid "All Projects"
+msgstr ""
+
+msgid "Search Projects"
+msgstr ""
+
+msgid "No projects found."
+msgstr ""
+
+msgid "No projects found in Trash."
+msgstr ""
+
+msgid "Project Logo"
+msgstr ""
+
+msgid "Upload Logo"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
